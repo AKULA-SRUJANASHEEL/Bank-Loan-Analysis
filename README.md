@@ -1,6 +1,6 @@
 # Bank - Debit and Credit -Loan-Analysis
 Bank-Debit and Credit -Loan-Analysis
-# 🏦 Bank - Debit and Credit  Loan Analytics Dashboard
+# 🏦 Bank - Debit and Credit - Loan Analytics Dashboard
 
 ## 📌 Project Overview
 
