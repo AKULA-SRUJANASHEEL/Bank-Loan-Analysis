@@ -1,10 +1,10 @@
-# Bank-Loan-Analysis
-Bank-Loan-Analysis
+# Bank - Debit and Credit -Loan-Analysis
+Bank-Debit and Credit -Loan-Analysis
 # 🏦 Bank Loan Analytics Dashboard
 
 ## 📌 Project Overview
 
-The **Bank Loan Analytics Dashboard** is an interactive Business Intelligence solution designed to evaluate lending performance, monitor portfolio health, assess credit risk, and provide actionable insights into customer borrowing behavior. The dashboard enables banking professionals and decision-makers to track key performance indicators (KPIs), identify trends, and support strategic lending decisions using data-driven analysis.
+The **Bank -Debit and Credit - Loan Analytics Dashboard** is an interactive Business Intelligence solution designed to evaluate lending performance, monitor portfolio health, assess credit risk, and provide actionable insights into customer borrowing behavior. The dashboard enables banking professionals and decision-makers to track key performance indicators (KPIs), identify trends, and support strategic lending decisions using data-driven analysis.
 
 ---
 
